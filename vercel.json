@@ -1,6 +1,7 @@
 {
   "build": {
-    "command": "npm run build",
+    "command": "node build.js",
     "env": {}
-  }
+  },
+  "framework": null
 }

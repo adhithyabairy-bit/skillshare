@@ -1,0 +1,54 @@
+.name{
+    font-size: 18px;
+    color: gray;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 74px;
+}
+.roll{
+    font-size: 18px;
+    color: gray;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 74px;
+}
+.course{
+    font-size: 18px;
+    color: gray;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 74px;
+}
+.branch{
+    font-size: 18px;
+    color: gray;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 74px;
+}
+.year{
+    font-size: 18px;
+    color: gray;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 74px;
+}
+
+.container{
+    margin-top: 40px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+}
+.text{
+    color: white;
+    text-align: center;
+}
